@@ -54,8 +54,8 @@ RESTful APIs built with Spring Boot and SQL for scalable backend services.
 
 ## 📊 GitHub Stats  
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdesai023&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdesai023&layout=compact&theme=tokyonight)  
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdesai023&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdesai023&layout=compact&theme=tokyonight) 
+ 
 
 ---
 
