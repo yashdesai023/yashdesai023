@@ -48,7 +48,6 @@ AI model for detecting COVID-19 from chest X-ray scans.
 RESTful APIs built with Spring Boot and SQL for scalable backend services.  
 *Tech:* Java, Spring Boot, SQL  
 
-> ✨ Pro Tip: Add screenshots/GIFs in your repo READMEs to make them more attractive.  
 
 ---
 
