@@ -60,9 +60,17 @@ RESTful APIs built with Spring Boot and SQL for scalable backend services.
 
 ## 🤝 Connect with Me  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/yash-s-desai-/)  
-📧 [Email](desaisyash1000@gmail.com)  
-💻 [GitHub](https://github.com/yashdesai023)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-s-desai-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yashdesai023">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:desaisyash1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
