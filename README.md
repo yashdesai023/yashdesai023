@@ -1,53 +1,51 @@
-# 🚀 Hi, I'm Yash Desai 👋  
+# Hi, I’m Yash Desai 👋
 
-**Generative AI & LLM Engineer | Java • Python • Spring Boot | Exploring DevOps & SDET | Building Scalable AI Solutions**  
+**Generative AI & LLM Engineer | MLOps | Backend | Python | Java | AI Automation**
 
-With a strong foundation in **Java backend engineering** and a growing expertise in **Generative AI**, I specialize in building intelligent, production-ready applications that merge the **robustness of enterprise systems** with the **innovation of Large Language Models (LLMs)**.  
-
-I thrive on designing solutions that are **scalable, impactful, and deployment-ready**—bridging backend reliability with AI innovation to deliver **real-world value** for businesses and communities.  
-
----
-
-## 🔥 About Me  
-
-- 🎓 CSE Student specializing in **Artificial Intelligence**  
-- 💻 Experienced in **Java | Spring Boot | SQL | Backend Systems**  
-- 🤖 Building applied **Generative AI & LLM projects** with Python, LangChain & TensorFlow  
-- ⚙️ Exploring **DevOps & SDET practices** (CI/CD, Docker, Jenkins, Testing)  
-- 🌍 Goal: To **stand at the intersection of enterprise engineering & AI** by delivering **scalable, intelligent solutions**  
+I build **production-ready GenAI systems**, **RAG pipelines**, **agentic workflows**, and **end-to-end MLOps architectures**.  
+My engineering style: **clean backend + optimized ML + reliable DevOps** → scalable AI products.
 
 ---
 
-## 🛠️ Tech Stack  
-
-**🤖 AI / ML**  
-`Generative AI` • `LangChain` • `LLMs` • `TensorFlow` • `PyTorch` • `Machine Learning`  
-
-**💻 Backend Development**  
-`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `SQL`  
-
-**🛠️ Tools & DevOps**  
-`Git` • `GitHub` • `Docker` • `Jenkins` • `Postman` • `AWS`  
-
-**⚡ Others**  
-`Python` • `C++` • `JavaScript` • `Software Testing (SDET)`  
+## 🔥 What I Do
+- Build **LLM Applications**, RAG systems & agentic automation  
+- Design **vector databases** + embedding processing (FAISS, Pinecone, Chroma)  
+- Create **FastAPI / Spring Boot** backends for AI apps  
+- Deploy models using **Docker, MLflow, Jenkins, GitHub Actions**  
+- Work with ML/CV models (YOLO, CNNs, Transformers)
 
 ---
 
-## 📌 Featured Projects  
+## 🧠 Tech Stack
 
-🔹 **[Car Number Plate Detection (ANPR)](https://github.com/yashdesai023/Car-Number-Plate-Detection)**  
-AI-powered ANPR system that detects and extracts license plate numbers from vehicle images.  
-*Tech:* Python, OpenCV, Deep Learning  
+**AI / LLMs**  
+LLMs (Gemini, GPT, Llama) • LangChain LCEL • LlamaIndex • CrewAI • RAG • Embeddings • Agents • Prompt Engineering • Vector DBs
 
-🔹 **[COVID-19 Detection via X-ray](https://github.com/yashdesai023/COVID-19-Detection)**  
-AI model for detecting COVID-19 from chest X-ray scans.  
-*Tech:* TensorFlow, CNNs, Image Processing  
+**Machine Learning**  
+TensorFlow • Scikit-Learn • CNNs • YOLO • Transfer Learning
 
-🔹 **[Java Spring Boot Backend APIs](#)** (Add if repo is public)  
-RESTful APIs built with Spring Boot and SQL for scalable backend services.  
-*Tech:* Java, Spring Boot, SQL  
+**Backend Engineering**  
+FastAPI • Flask • Spring Boot • REST APIs • Microservices • JWT
 
+**MLOps / DevOps**  
+Docker • MLflow • GitHub Actions • Jenkins • CI/CD • Logging
+
+**Databases & Tools**  
+Pinecone • FAISS • Chroma • MySQL • SQL • Pandas • NumPy • Streamlit
+
+---
+
+## 🚀 Featured Projects
+- **vectorDBpipe** — modular embedding + vector DB pipeline (FAISS, Pinecone, Chroma).  
+  `github.com/yashdesai023/vectorDBpipe`
+- **UPSC RAG Chatbot** — RAG chatbot (Gemini + Pinecone + Flask).  
+  `github.com/yashdesai023/chatbot-ai-project`
+- **MCQ Generator AI** — LCEL pipeline + Streamlit UI.  
+  `github.com/yashdesai023/mcq-generator-ai-project`
+- **Agentic Workflow Automation** — LangChain Agents + FastAPI + Docker.  
+  `github.com/yashdesai023/agentic-workflow`
+- **End-to-End MLOps Pipeline** — MLflow, Dockerized API & GitHub Actions.
+- **CCTV Analytics (YOLO)** — real-time detection & analytics.
 
 ---
 
