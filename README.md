@@ -45,8 +45,8 @@ I architect high-performance GenAI systems that bridge the gap between LLM resea
 
 ### 📈 Global Signal
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashdesai023&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdesai023&layout=compact&theme=tokyonight" height="180" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashdesai023&theme=tokyonight" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashdesai023&theme=tokyonight" height="180" alt="languages" />
 </p>
 
 ---
