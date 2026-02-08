@@ -1,62 +1,59 @@
-# Yash Desai 👋
-**Generative AI & LLM Engineer | Backend Architect | MLOps Specialist**
+# Yash Desai 🦅
+**Generative AI Engineer | RAG Architect | MLOps Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-s-desai-/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashdesai023)
-[![PyPI](https://img.shields.io/badge/PyPI-3776AB?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/vectordbpipe/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:desaisyash1000@gmail.com)
-
----
-
-### 🦅 Value Proposition
-I specialize in building **Production-Ready AI Systems** that solve high-stakes business problems. My engineering philosophy bridges the gap between raw LLM experimentation and scalable, reliable enterprise software. I don't just build chatbots; I build **Agentic Workflows** and **Data Pipelines** that deliver measurable ROI.
+[![Portfolio](https://img.shields.io/badge/Portfolio-yash.jobos.online-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash.jobos.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-s-desai-/)
+[![PyPI](https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/vectordbpipe/)
 
 ---
 
-### 🚀 Flagship Engineering Assets
-
-#### [vectorDBpipe](https://github.com/yashdesai023/vectorDBpipe) (PyPI Package)
-**A Modular, End-to-End RAG Pipeline for Production Vector Search.**
-- **Impact:** Reduces RAG boilerplate by 70%; enables 1-line backend switching (FAISS/Pinecone/Chroma).
-- **Engineering:** Features asynchronous batch processing, automated benchmarking, and enterprise failover logic.
-- **Tech:** Python, FAISS, Pinecone, ChromaDB, HuggingFace.
-
-#### [Agentic AI Workflow Automation](https://github.com/yashdesai023/agentic-ai-workflow)
-**Autonomous Multi-Agent Intelligence Platform.**
-- **Impact:** Automated 80% of manual email task extraction and response generation for enterprise use cases.
-- **Engineering:** Implements long-term vector memory, tool-calling reasoning, and multi-agent orchestration via CrewAI.
-- **Tech:** CrewAI, FastAPI, Gemini 1.5 Flash, Docker.
-
-#### [Enterprise Knowledge Graph & RAG Pipeline](https://github.com/yashdesai023/chatbot-ai-project)
-**High-Accuracy Contextual Retrieval Engine.**
-- **Impact:** Achieved 28% improvement in contextual relevance and 45% reduction in retrieval latency (0.9s).
-- **Engineering:** Features semantic reranking, context-window optimization, and production-grade caching.
-- **Tech:** Flask, Pinecone, Gemini API.
+### 🛡️ Core Value Proposition
+I architect high-performance GenAI systems that bridge the gap between LLM research and production-grade engineering. My work focuses on **Latency Optimization**, **Agentic Orchestration**, and **System Reliability**.
 
 ---
 
-### 🛠 Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **GenAI & LLMs** | LangChain, LlamaIndex, CrewAI, RAG, Agents, Prompt Engineering, Gemini, GPT-4 |
-| **Backend & Systems** | Python (FastAPI, Flask), Java (Spring Boot), Microservices, REST APIs, JWT |
-| **Data & Vector DBs** | Pinecone, FAISS, ChromaDB, SQL (MySQL/PostgreSQL), Data Pipelines |
-| **MLOps & DevOps** | Docker, GitHub Actions, MLflow, Jenkins, CI/CD, Observability |
+### 📊 Engineering Benchmarks & Impact
+| Metric | Result | Project / Context |
+| :--- | :--- | :--- |
+| **p50 Retrieval Latency** | **18.4ms** | vectorDBpipe + local ChromaDB |
+| **p99 Retrieval Latency** | **115.8ms** | vectorDBpipe Stress Test |
+| **Ops Reduction** | **80%** | Agentic Workflow Automation |
+| **Ingestion Throughput** | **42.5 chunks/s** | vectorDBpipe Modular Pipeline |
+| **Retrieval Precision** | **0.92 MRR** | UPSC RAG Intelligence Engine |
 
 ---
 
-### 📈 GitHub Status
+### 🚀 Featured Engineering Assets
+
+| Project | Role | Tactical Edge |
+| :--- | :--- | :--- |
+| **[vectorDBpipe](https://github.com/yashdesai023/vectorDBpipe)** | Lead Developer | Modular Python package standardizing RAG across FAISS/Pinecone. |
+| **[Agentic AI Workflow](https://github.com/yashdesai023/agentic-ai-workflow)** | Architect | Autonomous multi-agent system with long-term FAISS memory persistence. |
+| **[UPSC RAG Intelligence](https://github.com/yashdesai023/chatbot-ai-project)** | Engineer | Zero-hallucination academic engine optimized for dense/sparse retrieval. |
+| **[Multi-Threaded Server](https://github.com/yashdesai023/Web-Server)** | Systems Engineer | High-concurrency Java HTTP server with custom ThreadPool logic. |
+
+---
+
+### 🛠 Technical Arsenal
+
+- **AI Core:** LangChain, CrewAI, Prompt Engineering, RAG Architectures, Agentic Workflows.
+- **Data Infrastructure:** Pinecone, FAISS, ChromaDB, Sentence-Transformers, SQL.
+- **Backend Mastery:** Python (FastAPI/Flask), Java (Spring Boot), REST APIs, Multithreading.
+- **MLOps & DevOps:** Docker, GitHub Actions, MLflow, CI/CD, Nix.
+
+---
+
+### 📈 Global Signal
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashdesai023&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdesai023&layout=compact&theme=tokyonight" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashdesai023&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdesai023&layout=compact&theme=tokyonight" height="180" alt="languages" />
 </p>
 
 ---
 
-### 💡 Philosophy: The 90% Efficiency Tier
-I am a **Systems Thinker**. I leverage AI agents and automated workflows to handle 90% of operational overhead, allowing me to focus 100% of my human intelligence on solving the hardest 10% of engineering challenges.
+### 🔗 Digital Intelligence Hubs
+*   **Engineering Hub:** [yash.jobos.online](https://yash.jobos.online/)
+*   **Technical Dossier:** [Download PDF Portfolio](https://db.jobos.online/api/files/pbc_2471947077/xhvodzuzfcsuxay/yash_desai_ultimate_dossier_diwatnx3yi.pdf)
+*   **LinkedIn:** [Yash Desai](https://www.linkedin.com/in/yash-s-desai-/)
 
----
-
-✨ _“Building the future of autonomous intelligence, one commit at a time.”_
+✨ _“Architecting the future of autonomous intelligence, one benchmark at a time.”_
